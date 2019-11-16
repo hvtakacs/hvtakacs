@@ -1,0 +1,14 @@
+#banner {
+	background-image: url('banner.jpg')
+	background-size: cover;
+  	background-position: bottom center;
+  	height: 700px;
+  	width: 100%;
+}
+
+.navigation {
+  background-color: #466995;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
