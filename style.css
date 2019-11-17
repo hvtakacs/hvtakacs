@@ -19,6 +19,7 @@ h1 {
 #content {
 	opacity: 0.5;
 	border: dotted navy;
+	border-radius: 20px;
 }
 h3 {
 }
