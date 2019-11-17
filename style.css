@@ -8,9 +8,8 @@ h1 {
 }
 .navigation {
 	font-family: Perpetua;
-	z-index: 10;
   	width: 100%;
-  	left: 0;
+  	top: 0;
   	height: 30px;
 	position: fixed;
 	overflow: hidden;
