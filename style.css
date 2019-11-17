@@ -11,12 +11,11 @@ h1 {
 .navigation {
 	font-family: Perpetua;
 	z-index: 2;
-	position: fixed;
   	width: 100%;
 }
 .navigation li {
 	display: inline-block;
-	width: 80px;
+	width: 100px;
 	text-transform: uppercase;
 }
 .hero {
