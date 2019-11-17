@@ -15,6 +15,7 @@ h1 {
 .navigation li {
 	display: inline-block;
 	width: 80px;
+	text-transform: uppercase;
 }
 .hero {
 	width: 100vw;
