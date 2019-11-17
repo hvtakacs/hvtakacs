@@ -4,8 +4,8 @@ body {
 h1 {
 	font-family: Garamond;
 	font-size: 70px;
-	text-align: left;
-	foreground-color: #990000;
+	text-align: right;
+	color: #990000;
 	background-color: #e0ebeb;
 }
 .navigation {
