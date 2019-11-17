@@ -11,10 +11,10 @@ h1 {
 	font-family: Perpetua;
 	z-index: 10;
   	width: 100%;
-  	top: 0;
   	left: 0;
   	height: 50px;
 	position: fixed;
+	overflow: hidden;
 }
 .navigation li {
 	display: inline-block;
