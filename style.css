@@ -24,13 +24,17 @@ h3 {
 }
 h2 {
 	font-family: Perpetua;
+	color: white;
 }
 p {
+	color: #e6e6ff
 }
 .contact {
 }
 .soc {
+	color: #e6e6e6;
 }
 .data {
+	color: #ff4da6;
 }
 
