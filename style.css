@@ -1,12 +1,11 @@
 body, html {
 	background-color:#00004d;
 }
-h1 {
+.hero-inner h1 {
 	font-family: Garamond;
 	font-size: 70px;
 	text-align: right;
 	color: #cc0000;
-	background-color: #e0ebeb;
 	margin-right: 40px;
 }
 .navigation {
@@ -22,13 +21,6 @@ h1 {
     	background-position: center center;
     	background-repeat: no-repeat;
     	background-attachment: fixed;
-}
-#content {
-	opacity: 0.5;
-	border: dotted navy;
-	border-radius: 20px;
-	height: 200px;
-	width: 180px;
 }
 h3 {
 }
