@@ -1,10 +1,17 @@
+body {
+	background:;
+}
 h1 {
 	font-family: Garamond;
 }
 .navigation {
 	font-family: Perpetua;
 }
+.navigation li {
+}
 .banner {
+}
+#content {
 }
 h3 {
 }
