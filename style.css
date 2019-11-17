@@ -13,6 +13,7 @@ h1 {
 	z-index: 2;
 }
 .navigation li {
+	display: inline-block;
 }
 .hero {
 	width: 100vw;
