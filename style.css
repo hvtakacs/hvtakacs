@@ -10,6 +10,7 @@ h1 {
 }
 .navigation {
 	font-family: Perpetua;
+	z-index: 2;
 }
 .navigation li {
 }
