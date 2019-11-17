@@ -14,7 +14,7 @@ h1 {
 .navigation li {
 }
 .banner {
-	backgoung-image: url("banner.jpeg")
+	background-image: url("banner.jpeg")
 }
 #content {
 	opacity: 0.5;
