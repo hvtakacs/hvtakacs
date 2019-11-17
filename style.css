@@ -14,6 +14,7 @@ h1 {
   	top: 0;
   	left: 0;
   	height: 50px;
+	position: fixed;
 }
 .navigation li {
 	display: inline-block;
