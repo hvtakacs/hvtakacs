@@ -1,13 +1,22 @@
-#banner {
-	background-image: url('banner.jpeg')
-  	background-position: bottom center;
-  	height: 700px;
-  	width: 100%;
+h1 {
+	font-family: Garamond;
+}
+.navigation {
+	font-family: Perpetua;
+}
+.banner {
+}
+h3 {
+}
+h2 {
+	font-family: Perpetua;
+}
+p {
+}
+.contact {
+}
+.soc {
+}
+.data {
 }
 
-.navigation {
-  background-color: #466995;
-  position: fixed;
-  width: 100%;
-  z-index: 10;
-}
