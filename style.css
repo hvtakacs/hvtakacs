@@ -4,6 +4,9 @@ body {
 h1 {
 	font-family: Garamond;
 	font-size: 100px;
+	text-align: left;
+	foreground-color: #990000;
+	background-color: #e0ebeb;
 }
 .navigation {
 	font-family: Perpetua;
