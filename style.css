@@ -9,8 +9,9 @@ h1 {
 .navigation {
 	font-family: Perpetua;
   	width: 100%;
-  	height: 30px;
+  	height: 15px;
 	position: fixed;
+	z-index=3
 }
 .navigation li {
 	display: inline-block;
